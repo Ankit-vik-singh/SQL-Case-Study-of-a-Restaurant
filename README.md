@@ -17,16 +17,25 @@ Case Study Questions:
 
 ### The analysis addresses various business questions through SQL queries, including:
 Total spending per customer.
+
 Number of visits per customer.
-First item purchased by each customer.
-Most purchased item overall and by each customer.
+
+The first item is purchased by each customer.
+
+Most purchased items overall and by each customer.
+
 Popular items before and after customers become members.
+
 Total points earned by customers based on spending, with special multipliers for certain items and periods.
-SQL Solutions:
+
+### SQL Solutions:
 
 Detailed SQL queries are provided to answer each case study question, showcasing the ability to extract actionable insights from the dataset.
-Summary:
-This project demonstrates proficiency in SQL by solving real-world business problems for a restaurant. The analysis helps in understanding customer behavior, popular menu items, and the effectiveness of the membership program, providing valuable insights to enhance business operations at Danny's Diner.
+
+### Summary:
+This project demonstrates proficiency in SQL by solving real-world business problems for a restaurant. 
+
+The analysis helps in understanding customer behavior, popular menu items, and the effectiveness of the membership program, providing valuable insights to enhance business operations at Danny's Diner.
 
 ### Skills Highlighted:
 

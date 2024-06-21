@@ -8,14 +8,19 @@ This project involves performing SQL-based data analysis for Danny's Diner, a re
 ### Entity Relationship Diagram:
 
 The project includes an Entity Relationship Diagram (ERD) that maps out the relationships between various entities in the dataset, such as sales, menu items, and membership details.
-Datasets:
+
+### Datasets:
 
 Sales: Records of all transactions made at the restaurant.
+
 Menu: Details of items available at the restaurant, including their prices.
+
 Members: Information about the restaurant's membership program and its members.
-Case Study Questions:
+
+## Case Study Questions:
 
 ### The analysis addresses various business questions through SQL queries, including:
+
 Total spending per customer.
 
 Number of visits per customer.
